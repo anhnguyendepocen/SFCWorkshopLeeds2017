@@ -1,4 +1,4 @@
-# AB-SFC Wrokshop in University of Leeds - May 2017
+# AB-SFC Workshop in University of Leeds - May 2017
 
 This folder contains the lecture slides and the relevant material used during the AB-SFC Workshop held at the University of Leeds on May 18-19 2017:
 
